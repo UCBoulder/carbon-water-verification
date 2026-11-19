@@ -1,0 +1,16 @@
+analysis,n,schools,category,OR,lo,hi,rhat_max
+Main,1065,92,IntermediateRisk,0.0724,0.0413,0.122,1.01
+Main,1065,92,HighRisk,0.0257,0.0122,0.0529,1.01
+Main,1065,92,VeryHighRiskUnsafe,0.00813,0.00375,0.0168,1.01
+S1 special campaigns included,1179,92,IntermediateRisk,0.0661,0.0387,0.109,1.01
+S1 special campaigns included,1179,92,HighRisk,0.023,0.0103,0.046,1.01
+S1 special campaigns included,1179,92,VeryHighRiskUnsafe,0.00795,0.00382,0.0152,1.01
+S2 country fixed effect,1065,92,IntermediateRisk,0.07,0.0398,0.12,1.02
+S2 country fixed effect,1065,92,HighRisk,0.0246,0.0113,0.0502,1.02
+S2 country fixed effect,1065,92,VeryHighRiskUnsafe,0.0079,0.00373,0.0159,1.02
+S3 interaction (Kenya),315,56,IntermediateRisk,0.0357,0.0112,0.0993,1.01
+S3 interaction (Rwanda),750,36,IntermediateRisk,0.0813,0.0412,0.153,1.01
+S3 interaction (Kenya),315,56,HighRisk,0.00229,2.75e-4,0.0112,1.01
+S3 interaction (Rwanda),750,36,HighRisk,0.0608,0.026,0.135,1.01
+S3 interaction (Kenya),315,56,VeryHighRiskUnsafe,0.003,7.11e-4,0.0104,1.01
+S3 interaction (Rwanda),750,36,VeryHighRiskUnsafe,0.0106,0.00428,0.0245,1.01

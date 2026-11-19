@@ -1,0 +1,35 @@
+project,round,n,detect_pct,vhigh_pct
+LifeStraw,Jul 2024 baseline,414,77.3,38.9
+LifeStraw,Jan 2025 baseline,564,73.2,40.6
+LifeStraw,Jul 2025 baseline (Migori),151,74.2,43
+LifeStraw,Sep 2024 monitoring,78,20.5,2.6
+LifeStraw,Jan 2026 monitoring,99,0,0
+LifeStraw,May 2026 monitoring,125,5.6,2.4
+LifeStraw,Water-point re-tests during monitoring (excluded),2,100,0
+Amazi Meza,2023 baseline,2845,71.5,40.9
+Amazi Meza,Scale-up baseline,924,83.9,62.1
+Amazi Meza,2025 monitoring,207,4.3,1
+Amazi Meza,Jan-Mar 2026 monitoring,347,12.1,2.6
+Amazi Meza,Jul 2025 cleaning campaign (special),332,4.5,0.3
+Amazi Meza,2026 cleaning campaign (special),382,1,0.3
+Amazi Meza,Re-test of flagged filters (special),46,6.5,4.3
+Asili,Aug-Sep 2024 baseline,245,95.1,59.6
+Asili,Jan 2025 monitoring,117,0,0
+Asili,Sep 2025 internal,122,12.3,1.6
+Asili,"  Sep 2025 internal, households",98,15.3,2
+Asili,"  Sep 2025 internal, kiosks/water points",24,0,0
+Asili,Aug 2025 enumerator training (excluded),5,0,0
+DRIP-FUNDI,2024 baseline (P/A),197,76.6,NA
+DRIP-FUNDI,"First monitoring, untraceable (excluded, P/A)",121,63.6,NA
+DRIP-FUNDI,Mar 2026 monitoring,130,6.9,0
+Ranovola,Apr 2025 baseline,202,92.6,50
+Ranovola,2025 post-baseline test (excluded),16,50,12.5
+Ranovola,Oct 2025 internal,79,62,11.4
+Ranovola,Mar 2026 internal,171,30.4,3.5
+Ranovola,Aug 2026 monitoring,187,17.6,0.5
+Amazi Water,Mar 2026 baseline,124,100,75
+Amazi Water,Sep 2026 monitoring,36,13.9,0
+Amazi Water,"  Sep 2026, households",30,16.7,0
+Amazi Water,"  Sep 2026, tap stands",6,0,0
+Water Mission,2024 source assessment (P/A),11,72.7,NA
+Water Mission,2026 monitoring (P/A),127,0,NA

@@ -1,0 +1,161 @@
+deployment,household_code,sample_location,system_code,ecoli_mpn,ecoli_risk
+Baseline March 2026,HH3b6c91bb,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH17f5d5b0,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH9d00dce7,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH7691e5b0,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH194e0105,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHa577571b,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH13a63227,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHcfe6efb4,Household,SY1a6b9711,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH5517ae14,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH20fce2d5,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH110a27f3,Household,SY1a6b9711,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH2669b889,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH3256056a,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH125fe564,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH165a76a5,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHe65d5857,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH915efb6b,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHade754a7,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH8a073e5e,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHb93655d5,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH842965bd,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHfa1352fd,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH0a269a6a,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHe73579de,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHcf4489a3,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHb9cdd59f,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH982ac491,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH866c9ce1,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HHd4ee14b6,Household,SY1a6b9711,100.0,Unsafe
+Baseline March 2026,HH76173b1c,Household,SYf7fb304c,100.0,Unsafe
+Baseline March 2026,HH2084e6b6,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH59246c89,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH3b5b1ac4,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH1f9096e5,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH0b6d44e4,Household,SYf7fb304c,100.0,Unsafe
+Baseline March 2026,HHf05ae728,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH3bd24fe9,Household,SYf7fb304c,100.0,Unsafe
+Baseline March 2026,HH2e03a594,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH76173b1c,Household,SYf7fb304c,100.0,Unsafe
+Baseline March 2026,HH791e9178,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HHbe2d525f,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHa468729f,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHac53c75c,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH56e80b7b,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH84d006c8,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH6c4326e7,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHadcd7701,Household,SY70be1369,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH1f1b9f78,Household,SY70be1369,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH649cd945,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH0cbedac2,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHae407b6b,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HH570f3384,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HHfea21682,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HH003c1eff,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HH8054c4cf,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HHa5360577,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HHbdff7f5d,Household,SY97800aa9,100.0,Unsafe
+Baseline March 2026,HHb07a4218,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HHc433f59a,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HH9414a6fe,Household,SY97800aa9,100.0,Unsafe
+Baseline March 2026,HH76579272,Household,SY01b40cd9,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HH1c293099,Household,SY01b40cd9,100.0,Unsafe
+Baseline March 2026,HH6a9d4c47,Household,SYa8f9dde9,32.6,High Risk/Probably Unsafe
+Baseline March 2026,HH330e1e69,Household,SY80acd61a,100.0,Unsafe
+Baseline March 2026,HH8521425c,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH3c7565b9,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH5652c173,Household,SY80acd61a,100.0,Unsafe
+Baseline March 2026,HHaaecdf04,Household,SY80acd61a,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH9413a54f,Household,SY01b40cd9,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HH8267b5df,Household,SYa8f9dde9,100.0,Unsafe
+Baseline March 2026,HH3d521fd7,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH92ace8c7,Household,SYa8f9dde9,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HHff841283,Household,SY80acd61a,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH278e7c87,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH6cd7b040,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH97f2db6e,Household,SYa8f9dde9,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HHae828e2a,Household,SY01b40cd9,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HHaed496a8,Household,SY01b40cd9,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HH85c7e6c8,Household,SYa8f9dde9,9.1,Intermediate Risk/Possibly Safe
+Baseline March 2026,HH2ddcf404,Household,SY01b40cd9,4.7,Intermediate Risk/Possibly Safe
+Baseline March 2026,HH28ad8bcf,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHf5db6274,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH2beff48b,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HH730bceee,Household,SY70be1369,100.0,Unsafe
+Baseline March 2026,HHcc01a509,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH9f619dcb,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH1f4d3a97,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH402d1213,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH6b8edf78,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH139e5e86,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH8d1826e8,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH3b3c6c07,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HHe02b0614,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH6ae717ff,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HHeffc0cfd,Household,SYf4cfc6fa,100.0,Unsafe
+Baseline March 2026,HH84d006c8,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HH8b1627d2,Household,SYe8f97e0b,100.0,Unsafe
+Baseline March 2026,HHffe1134b,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HH9d8dddce,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HH81f51bc8,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HH4f9cedee,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HH6d63fe5f,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HH3d6d8abe,Household,SYded7f82c,100.0,Unsafe
+Baseline March 2026,HH72cd5c0f,Household,SYda6cc1fc,100.0,Unsafe
+Baseline March 2026,HHa84c9dc2,Household,SY2a8079f7,100.0,Unsafe
+Baseline March 2026,HHa3e33dc5,Household,SYc8f7455a,100.0,Unsafe
+Baseline March 2026,HHb9f0f379,Household,SYc8f7455a,100.0,Unsafe
+Baseline March 2026,HH3c3fee48,Household,SY2a8079f7,100.0,Unsafe
+Baseline March 2026,HH4bb5e1f1,Household,SYc8f7455a,100.0,Unsafe
+Baseline March 2026,HH82cf88e3,Household,SYc8f7455a,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH2453dbd6,Household,SYc8f7455a,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH2c9e42a7,Household,SY2a8079f7,100.0,Unsafe
+Baseline March 2026,HH5804a9a1,Household,SYc8f7455a,100.0,Unsafe
+Baseline March 2026,HH0073b88d,Household,SY34a37f64,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HH6ad44545,Household,SY34a37f64,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HH12964f08,Household,SY34a37f64,13.6,High Risk/Possibly Unsafe
+Baseline March 2026,HHb19e1168,Household,SY34a37f64,100.0,Unsafe
+Baseline March 2026,HHa9e90dd5,Household,SY34a37f64,32.6,High Risk/Probably Unsafe
+Baseline March 2026,HH257284bd,Household,SY34a37f64,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HHcd671ba5,Household,SY34a37f64,48.3,High Risk/Probably Unsafe
+Baseline March 2026,HHf222e547,Household,SY34a37f64,100.0,Unsafe
+Baseline March 2026,HH19913ef6,Household,SY34a37f64,9.6,Intermediate Risk/Possibly Safe
+Baseline March 2026,HHc1cf574f,Household,SY34a37f64,4.7,Intermediate Risk/Possibly Safe
+Baseline March 2026,HHaedd5007,Household,SY34a37f64,3.9,Intermediate Risk/Possibly Safe
+Additional sites September 2026,HH8b1627d2,Household,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,HH0b6d44e4,Household,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,HHf05ae728,Household,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,HH3b5b1ac4,Household,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,,Tap stand,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,HHff841283,Household,SY245eda04,0.0,Low Risk/Safe
+Additional sites September 2026,,Tap stand,SY34fb3af3,0.0,Low Risk/Safe
+Additional sites September 2026,HHc6eedb65,Household,SY34fb3af3,0.0,Low Risk/Safe
+Additional sites September 2026,HHa5360577,Household,SY394efb5f,1.5,Intermediate Risk/Probably Safe
+Additional sites September 2026,HH86b3965f,Household,SY34fb3af3,1.1,Intermediate Risk/Probably Safe
+Additional sites September 2026,HH0b6d44e4,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HHff841283,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HHa360e7df,Household,SY34fb3af3,0.0,Low Risk/Safe
+Additional sites September 2026,HHfea21682,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HH570f3384,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HH3b5b1ac4,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HHf05ae728,Household,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,,Tap stand,SY394efb5f,0.0,Low Risk/Safe
+Additional sites September 2026,HH8b1627d2,Household,SY394efb5f,2.6,Intermediate Risk/Probably Safe
+Additional sites September 2026,,Tap stand,SY54b4fc19,0.0,Low Risk/Safe
+Additional sites September 2026,HH82f8f13e,Household,SY54b4fc19,0.0,Low Risk/Safe
+Additional sites September 2026,HHf10f4079,Household,SY54b4fc19,1.1,Intermediate Risk/Probably Safe
+Additional sites September 2026,HH2f2d8600,Household,SY54b4fc19,1.5,Intermediate Risk/Probably Safe
+Additional sites September 2026,HH8b1627d2,Household,SY939cd649,0.0,Low Risk/Safe
+Additional sites September 2026,HHf05ae728,Household,SY939cd649,0.0,Low Risk/Safe
+Additional sites September 2026,HH3b5b1ac4,Household,SY939cd649,0.0,Low Risk/Safe
+Additional sites September 2026,,Tap stand,SY939cd649,0.0,Low Risk/Safe
+Additional sites September 2026,HHff841283,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HHa5360577,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HH0b6d44e4,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HH570f3384,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HHf05ae728,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,,Tap stand,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HH3b5b1ac4,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HHfea21682,Household,SY0644479a,0.0,Low Risk/Safe
+Additional sites September 2026,HH8b1627d2,Household,SY0644479a,0.0,Low Risk/Safe

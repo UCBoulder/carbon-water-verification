@@ -1,0 +1,4 @@
+category,intercept,log_odds,OR,lo,hi
+IntermediateRisk,-0.555,-2.625,0.072,0.041,0.122
+HighRisk,-0.657,-3.66,0.026,0.012,0.053
+VeryHighRiskUnsafe,0.396,-4.812,0.008,0.004,0.017
